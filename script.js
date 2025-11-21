@@ -283,9 +283,7 @@ function loadDocuments() {
                 <span>${doc.type} • ${doc.taille}</span>
             </div>
             <div class="document-actions">
-                <button class="view-btn" data-pdf="${doc.lien}">
-                    <i class="fas fa-eye"></i> Lire
-                </button>
+                
                 <button class="download-btn" data-pdf="${doc.lien}" data-filename="${doc.nom}">
                     <i class="fas fa-download"></i> Télécharger
                 </button>
@@ -431,9 +429,7 @@ function loadEpreuvesDocuments() {
                 <span>${doc.type} • ${doc.taille}</span>
             </div>
             <div class="document-actions">
-                <button class="view-btn" data-pdf="${doc.lien}">
-                    <i class="fas fa-eye"></i> Lire
-                </button>
+                
                 <button class="download-btn" data-pdf="${doc.lien}" data-filename="${doc.nom}">
                     <i class="fas fa-download"></i> Télécharger
                 </button>
