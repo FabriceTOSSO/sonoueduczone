@@ -163,22 +163,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/Info%20semestre1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -367,22 +362,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/Info%20semestre1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -571,22 +561,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/Info%20semestre1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                       
 
                        
 
@@ -775,22 +760,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/ELT2%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                       
 
                        
 
@@ -979,22 +959,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/BFA%20CFE%20CEGP%202%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -1183,22 +1158,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/BFA%20CFE%20CEGP%202%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                       
 
                        
 
@@ -1387,23 +1357,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/CE%20MAC%20MRH%20MCL%202%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
-
+                       
                        
 
                     ]
@@ -1591,10 +1555,10 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/CE%20MAC%20MRH%20MCL%202%20S1.pdf"
                         },
 
                        
@@ -1795,23 +1759,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/BFA%20CFE%20CEGP%202%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
-
+                        
                        
 
                     ]
@@ -1999,22 +1957,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/htr2%20semestre1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -2178,7 +2131,7 @@ const documentsDatabase = {
                             "nom": "Les epreuves disponibles",
                             "type": "PDF",
                             
-                            "lien": "https://pdfsonou.netlify.app/image/TL.pdf"
+                            "lien": ""
                         },
 
                         
@@ -2203,22 +2156,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/TL2%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                       
 
                        
 
@@ -2228,10 +2176,10 @@ const documentsDatabase = {
                 "Licence 3": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                          
+                            "lien": "https://pdfsonou.netlify.app/image/TL.pdf"
                         },
 
                        
@@ -2407,22 +2355,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/SD2%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -2611,22 +2554,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/CE%20MAC%20MRH%20MCL%202%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                       
 
                        
 
@@ -2815,23 +2753,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/MD2%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
-
+                       
                        
 
                     ]
@@ -3019,22 +2951,17 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/SPRI2%20S1.pdf"
                         },
 
                        
 
                     ],
                     "2e Semestre": [
-                        {
-                            "nom": "Introduction aux réseaux",
-                            "type": "PDF",
-                            "taille": "2.4 Mo",
-                            "lien": "image/Attestation de stage.pdf"
-                        },
+                        
 
                        
 
@@ -3223,10 +3150,10 @@ const documentsDatabase = {
                 "Licence 2": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/LICENCE2/CE%20MAC%20MRH%20MCL%202%20S1.pdf"
                         },
 
                        
