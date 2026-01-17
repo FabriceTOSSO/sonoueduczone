@@ -135,10 +135,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/Info.pdf"
                         },
 
                         
@@ -334,10 +334,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/Info.pdf"
                         },
 
                         
@@ -533,10 +533,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/Info.pdf"
                         },
 
                         
@@ -732,10 +732,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                         
+                            "lien": "https://pdfsonou.netlify.app/image/L1/ELT.pdf"
                         },
 
                         
@@ -931,10 +931,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/BFA,%20CFE,%20CEGP,%20TL.pdf"
                         },
 
                         
@@ -1130,10 +1130,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                            
+                            "lien": "https://pdfsonou.netlify.app/image/L1/BFA,%20CFE,%20CEGP,%20TL.pdf"
                         },
 
                         
@@ -1329,10 +1329,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/MAC,%20CE,%20MRH,%20CI.pdf"
                         },
 
                         
@@ -1527,10 +1527,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                        
+                            "lien": "https://pdfsonou.netlify.app/image/L1/MAC,%20CE,%20MRH,%20CI.pdf"
                         },
 
                         
@@ -1731,10 +1731,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                           
+                            "lien": "https://pdfsonou.netlify.app/image/L1/BFA,%20CFE,%20CEGP,%20TL.pdf"
                         },
 
                         
@@ -1929,10 +1929,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                         
+                            "lien": "https://pdfsonou.netlify.app/image/L1/HTR.pdf"
                         },
 
                         
@@ -2131,7 +2131,7 @@ const documentsDatabase = {
                             "nom": "Les epreuves disponibles",
                             "type": "PDF",
                             
-                            "lien": ""
+                            "lien": "https://pdfsonou.netlify.app/image/L1/BFA,%20CFE,%20CEGP,%20TL.pdf"
                         },
 
                         
@@ -2526,10 +2526,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                          
+                            "lien": "https://pdfsonou.netlify.app/image/L1/MAC,%20CE,%20MRH,%20CI.pdf"
                         },
 
                         
@@ -2923,10 +2923,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                          
+                            "lien": "https://pdfsonou.netlify.app/image/L1/SPRI.pdf"
                         },
 
                         
@@ -3122,10 +3122,10 @@ const documentsDatabase = {
                 "Licence 1": {
                     "1er Semestre": [
                         {
-                            "nom": "Examen final réseaux 2024",
+                            "nom": "Les epreuves disponibles",
                             "type": "PDF",
-                            "taille": "1.3 Mo",
-                            "lien": "chemin/vers/fichier2024.pdf"
+                        
+                            "lien": "https://pdfsonou.netlify.app/image/L1/MAC,%20CE,%20MRH,%20CI.pdf"
                         },
 
                         
